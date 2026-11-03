@@ -153,13 +153,13 @@ Díaz Alejandro, C. F. (1970). *Essays on the economic history of the Argentine 
 
 Favero, C., y Giavazzi, F. (2007). *Debt and the effects of fiscal policy* (NBER Working Paper No. 12822). National Bureau of Economic Research. https://doi.org/10.3386/w12822
 
-Fondo Monetario Internacional [FMI]. (2021). *Review of the debt sustainability framework for market access countries* (IMF Policy Paper).
+Fondo Monetario Internacional [FMI]. (2021). *Review of the debt sustainability framework for market access countries* (IMF Policy Paper No. 2021/003). https://www.imf.org/en/Publications/Policy-Papers/Issues/2021/02/03/Review-of-The-Debt-Sustainability-Framework-for-Market-Access-Countries-50060
 
 Fondo Monetario Internacional [FMI]. (2022). *Staff guidance note on the Sovereign Risk and Debt Sustainability Framework for market access countries* (IMF Policy Paper No. 2022/039). https://www.imf.org/en/Publications/Policy-Papers/Issues/2022/08/08/Staff-Guidance-Note-on-the-Sovereign-Risk-and-Debt-Sustainability-Framework-for-Market-521884
 
 Fondo Monetario Internacional [FMI]. (2025). *Argentina: Request for an extended arrangement under the Extended Fund Facility* (IMF Country Report No. 25/95).
 
-Fondo Monetario Internacional [FMI]. (2026). *Argentina: 2026 Article IV consultation, second review under the extended arrangement under the Extended Fund Facility* (IMF Country Report No. 26/105).
+Fondo Monetario Internacional [FMI]. (2026). *Argentina: 2026 Article IV consultation, second review under the extended arrangement under the Extended Fund Facility, requests for a waiver of nonobservance of a performance criterion, modification of performance criteria, and financing assurances review* (IMF Country Report No. 26/105).
 
 Fry, R., y Pagan, A. (2011). Sign restrictions in structural vector autoregressions: A critical review. *Journal of Economic Literature*, *49*(4), 938-960. https://doi.org/10.1257/jel.49.4.938
 
